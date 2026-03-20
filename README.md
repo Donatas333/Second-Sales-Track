@@ -4,7 +4,7 @@
 > Log a client visit in under 20 seconds. Speak — AI fills the rest.
 
 <!-- 📸 SCREENSHOT: Full app dashboard on mobile (dark UI, orange accents) -->
-![AutoTrack Dashboard](.github/screenshots/dashboard.png)
+![AutoTrack Dashboard](.github/screenshots/mainpage.png)
 
 **[Live Demo →](https://vercel.com/donatas333s-projects/second-sales-track)** &nbsp;|&nbsp; Built with React + Vite + Tailwind + Claude AI
 
