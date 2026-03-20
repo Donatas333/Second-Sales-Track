@@ -4,9 +4,9 @@
 > Log a client visit in under 20 seconds. Speak — AI fills the rest.
 
 <!-- 📸 SCREENSHOT: Full app dashboard on mobile (dark UI, orange accents) -->
-![AutoTrack Dashboard](.Second-Sales-Track/screenshots/mainpage.png)
+![AutoTrack Dashboard](screenshots/mainpage.png)
 
-**[Live Demo →](https://vercel.com/donatas333s-projects/second-sales-track)** &nbsp;|&nbsp; Built with React + Vite + Tailwind + Claude AI
+**[Live Demo →](https://second-sales-track.vercel.app/)** &nbsp;|&nbsp; Built with React + Vite + Tailwind + Claude AI
 
 ---
 
@@ -52,7 +52,7 @@ AutoTrack is a **progressive web app** that a sales rep opens on their phone the
 No typing. No forms. No laptop.
 
 <!-- 📸 SCREENSHOT: NewInteraction page with voice recorder active (red pulsing button) and AI fill button highlighted -->
-![Voice Recording](.github/screenshots/voice-recording.png)
+![Voice Recording](screenshots/voice-recording.png)
 
 ---
 
@@ -72,7 +72,7 @@ No typing. No forms. No laptop.
 - Detects interaction type (visit, call, email)
 
 <!-- 📸 SCREENSHOT: Form filled by AI — client selected, products added, next action and date set -->
-![AI Form Fill](.github/screenshots/ai-fill.png)
+![AI Form Fill](screenshots/ai-fill.png)
 
 ### 👥 Client Management
 - Full client profiles with company, contact, city, phone, notes
@@ -82,7 +82,7 @@ No typing. No forms. No laptop.
 - One-tap call from client profile
 
 <!-- 📸 SCREENSHOT: ClientDetail page showing timeline + vehicle profile bar chart -->
-![Client Detail](.github/screenshots/client-detail.png)
+![Client Detail](screenshots/client-detail.png)
 
 ### 🔔 Follow-Up Tracking
 - Every interaction can have a next action + deadline
@@ -96,7 +96,7 @@ No typing. No forms. No laptop.
 - Tap any day to see that day's activity
 
 <!-- 📸 SCREENSHOT: Calendar with colored dots and a day expanded showing interactions -->
-![Calendar](.github/screenshots/calendar.png)
+![Calendar](screenshots/calendar.png)
 
 ### 📊 Dashboard & Stats
 - Good morning / afternoon / evening greeting
@@ -194,7 +194,7 @@ Dark mobile-first UI designed for outdoor use — readable in sunlight, one-hand
 Typography: **Barlow Condensed** (headings) + **DM Sans** (body). Color: slate-950 background with brand orange (#f97316) accents.
 
 <!-- 📸 SCREENSHOT: Side-by-side of Dashboard + FollowUps pages showing consistent dark UI -->
-![UI Design](.github/screenshots/ui-overview.png)
+![UI Design](screenshots/ui-overview.png)
 
 ---
 
