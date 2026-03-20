@@ -6,7 +6,7 @@
 <!-- 📸 SCREENSHOT: Full app dashboard on mobile (dark UI, orange accents) -->
 ![AutoTrack Dashboard](.github/screenshots/dashboard.png)
 
-**[Live Demo →](https://your-vercel-url.vercel.app)** &nbsp;|&nbsp; Built with React + Vite + Tailwind + Claude AI
+**[Live Demo →](https://vercel.com/donatas333s-projects/second-sales-track)** &nbsp;|&nbsp; Built with React + Vite + Tailwind + Claude AI
 
 ---
 
