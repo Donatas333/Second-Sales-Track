@@ -52,7 +52,7 @@ AutoTrack is a **progressive web app** that a sales rep opens on their phone the
 No typing. No forms. No laptop.
 
 <!-- 📸 SCREENSHOT: NewInteraction page with voice recorder active (red pulsing button) and AI fill button highlighted -->
-![Voice Recording](screenshots/voice_recording.png)
+![Voice Recording](screenshots/vioce-recording.png)
 
 ---
 
