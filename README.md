@@ -52,7 +52,7 @@ AutoTrack is a **progressive web app** that a sales rep opens on their phone the
 No typing. No forms. No laptop.
 
 <!-- 📸 SCREENSHOT: NewInteraction page with voice recorder active (red pulsing button) and AI fill button highlighted -->
-![Voice Recording](screenshots/voice-recording.png)
+![Voice Recording](screenshots/voice_recording.png)
 
 ---
 
@@ -82,7 +82,7 @@ No typing. No forms. No laptop.
 - One-tap call from client profile
 
 <!-- 📸 SCREENSHOT: ClientDetail page showing timeline + vehicle profile bar chart -->
-![Client Detail](screenshots/client-detail.png)
+![Client Detail](screenshots/client.png)
 
 ### 🔔 Follow-Up Tracking
 - Every interaction can have a next action + deadline
@@ -193,9 +193,6 @@ Dark mobile-first UI designed for outdoor use — readable in sunlight, one-hand
 
 Typography: **Barlow Condensed** (headings) + **DM Sans** (body). Color: slate-950 background with brand orange (#f97316) accents.
 
-<!-- 📸 SCREENSHOT: Side-by-side of Dashboard + FollowUps pages showing consistent dark UI -->
-![UI Design](screenshots/ui-overview.png)
-
 ---
 
 ## Roadmap
@@ -219,18 +216,6 @@ Typography: **Barlow Condensed** (headings) + **DM Sans** (body). Color: slate-9
 | Company | €299/mo flat | Mid-size distributors, unlimited reps + manager dashboard |
 
 The AI cost per company at Team tier: ~€3–8/month at typical usage. Comfortable margin.
-
----
-
-## Contributing
-
-Pull requests welcome. Please open an issue first for major changes.
-
----
-
-## License
-
-MIT
 
 ---
 
